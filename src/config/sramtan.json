@@ -1,0 +1,69 @@
+{
+  "Bot": {
+   "Bot_Token": "MTA1ODEyNTcxMDUyODYyNjgxOA.GXLecj.PiLA5d79mWmYKdWigeVPrJYIE-rwkcR1WoF9K0",
+   "Guild_Owners": ["724375640341610566"],
+   "Bot_Prefix": "!",
+   "Bot_Status": "dnd",
+   "Bot_Durum": "Rüzgar",
+   "Bot_VoiceChannel": "1058164123365560451",
+   "Database_Mongourl":"mongodb+srv://sally:sally@cluster0.y7ejeer.mongodb.net/?retryWrites=true&w=majority",
+   "Bot_Footer": "Sally"
+  },
+
+  "Server": {
+   "GuildID": "1058121113827291217"
+  },
+
+  "emoji": {
+    "loading": "<a:loading:958946908393574470>"
+  },
+
+"iliski": {
+  "Alone":"YALNIZ İD",
+  "LGBT":"LGBT İD",
+ "anyone":"SEVGİLİ YAPMIYORUM İD", 
+ "Lovers":"SEVGİLİM VAR İD" 
+},
+
+"katilim": {
+ "etkinlik":"ETKİNLİK KATILIMCISI İD",
+ "cekilis":"ÇEKİLİŞ KATILIMCISI İD"
+
+ },
+ "game": {
+   "gartic":"GARTİC_ROL İD",
+   "vk":"VAMPİR KÖYLÜ ROL İD",
+   "dc":"DOĞRULUK VE CESARETLİLİK İD"
+ },
+
+ "burç": {
+  "boga": "1058165470555013142",
+  "ikizler": "1058165481619595354",
+  "yengec": "1058165528511926303",
+  "aslan": "1058165569947447418",
+  "basak": "1058165574208852050",
+  "terazi": "1058165587743879268",
+  "koc": "1058165592168861788",
+  "akrep": "1058165596262518785",
+  "yay": "1058165807449899068",
+  "oglak": "1058165814919966882",
+  "kova": "1058165819625971844",
+  "balık": "1058165836214456463"
+ },
+
+
+ "color": {
+   "siyah": "ROL İD' LERİNİ GİRİN",
+   "beyaz": "ROL İD' LERİNİ GİRİN",
+   "kırmızı": "ROL İD' LERİNİ GİRİN",
+   "yesil": "ROL İD' LERİNİ GİRİN",
+   "mor": "ROL İD' LERİNİ GİRİN",
+   "mavi": "ROL İD' LERİNİ GİRİN",
+   "pembe": "ROL İD' LERİNİ GİRİN",
+   "sarı": "ROL İD' LERİNİ GİRİN", 
+   "turuncu": "ROL İD' LERİNİ GİRİN"
+ }
+
+
+
+}
